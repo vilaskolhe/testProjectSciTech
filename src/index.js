@@ -1,4 +1,4 @@
-// Entry: start the HTTP server and optional WebSocket server
+// Entry of our project: start the HTTP server and optional WebSocket server
 const app = require('./app');
 const http = require('http');
 const { setupWebSocket } = require('./websocket'); // optional

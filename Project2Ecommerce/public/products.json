@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "category": "Electronics",
+    "description": "A powerful laptop for work and play."
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "price": 19.99,
+    "category": "Books",
+    "description": "An interesting book to read."
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "price": 49.99,
+    "category": "Clothing",
+    "description": "Comfortable shoes for everyday use."
+  }
+]
